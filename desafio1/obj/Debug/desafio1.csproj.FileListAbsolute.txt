@@ -1,0 +1,20 @@
+C:\Users\delmy\Desktop\windows form2\desafio1\bin\Debug\desafio1.exe.config
+C:\Users\delmy\Desktop\windows form2\desafio1\bin\Debug\desafio1.exe
+C:\Users\delmy\Desktop\windows form2\desafio1\bin\Debug\desafio1.pdb
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.Form1.resources
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.Properties.Resources.resources
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.exe
+C:\Users\delmy\Desktop\windows form2\desafio1\obj\Debug\desafio1.pdb
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.Form1.resources
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.Properties.Resources.resources
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.exe
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\obj\Debug\desafio1.pdb
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\bin\Debug\desafio1.exe.config
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\bin\Debug\desafio1.exe
+C:\Users\delmy\Desktop\parcial2deProgra\desafio1\bin\Debug\desafio1.pdb

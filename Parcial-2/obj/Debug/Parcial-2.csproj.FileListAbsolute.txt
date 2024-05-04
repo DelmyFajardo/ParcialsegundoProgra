@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\bin\Debug\Parcial-2.exe.config
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\bin\Debug\Parcial-2.exe
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\bin\Debug\Parcial-2.pdb
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\obj\Debug\Parcial-2.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\obj\Debug\Parcial-2.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\obj\Debug\Parcial-2.exe
+C:\Users\delmy\Desktop\parcial2deProgra\Parcial-2\obj\Debug\Parcial-2.pdb
